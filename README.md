@@ -1,3 +1,14 @@
+## General Summary
+
+This Projects shows how to add a sticky header/nav in React, update the logo images in the header and nav based on scrolling/resize, and generate a hamburger menu and nav list upon resize.  Responsive code created using Styled Components.
+
+## To Run
+
+1) Be sure to run npm install or yarn install at first.
+
+2) Then npm Start.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
